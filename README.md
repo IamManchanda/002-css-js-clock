@@ -1,3 +1,3 @@
 # CSS and JS Clock
 
-Let's play the music. Enjoy!
+Let's play the clock. Enjoy!
